@@ -57,7 +57,7 @@ class App extends React.Component {
               name={ele.name}
               image={ele.image}
             />
-          )};
+          )}
       </Wrapper>
       </div>
 
