@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Stewie",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ef1e284-dc09-45bb-a1ee-d8c65a1ae170/d6swij5-be8ef713-f998-4d08-b3d7-0beefd671e83.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlZjFlMjg0LWRjMDktNDViYi1hMWVlLWQ4YzY1YTFhZTE3MFwvZDZzd2lqNS1iZThlZjcxMy1mOTk4LTRkMDgtYjNkNy0wYmVlZmQ2NzFlODMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PzkXtfivgWiOVlWKHTWysslp7tAO4cDAT_ijayedsWA"
+    
+  },
+  {
+    "id": 2,
+    "name": "Chris",
+    "image": "http://3.bp.blogspot.com/-kkLh13Yl0Nk/Ursf_dBkd_I/AAAAAAAAT3U/XjNJoSARccI/s1600/Chris-Griffin-Family-Guy-Character-Pictures+(2).png"
+    
+  },
+  {
+    "id": 3,
+    "name": "Quagmire",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Glenn_Quagmire.png/220px-Glenn_Quagmire.png"
+   
+  },
+  {
+    "id": 4,
+    "name": "Lois",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Lois_Griffin.png"
+    
+  },
+  {
+    "id": 5,
+    "name": "Peter",
+    "image": "https://i.pinimg.com/originals/f3/69/6b/f3696b0bc585bab91787ecb28feb1bd5.png" 
+  },
+  {
+    "id": 6,
+    "name": "Cleveland",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png"  
+  },
+  {
+    "id": 7,
+    "name": "Brian",
+    "image": "https://i.pinimg.com/originals/fd/2c/a1/fd2ca1b7a170d9025f4790c346b80d5e.png"  
+  },
+  {
+    "id": 8,
+    "name": "Weird AL",
+    "image": "https://www.nicepng.com/png/full/406-4061086_weird-al-weird-family-guy-characters.png"  
+  },
+  {
+    "id": 9,
+    "name": "Meg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Meg_Griffin.png" 
+  },
+  {
+    "id": 10,
+    "name": "Herbert",
+    "image": "http://www.pngmart.com/files/3/Family-Guy-PNG-Free-Download.png",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Joe",
+    "image": "http://vignette1.wikia.nocookie.net/family-guy-the-quest-for-stuff/images/1/1c/Joe_-_Cop.png/revision/latest?cb=20140419143904"
+  },
+  {
+    "id": 12,
+    "name": "Bruce",
+    "image": "https://vignette.wikia.nocookie.net/familyguyfanon/images/1/14/Bruce.png/revision/latest?cb=20161126193705"  
+  }
+]
